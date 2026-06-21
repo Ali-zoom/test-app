@@ -1,3 +1,2 @@
 this is first version of b file.
 new line added
-this is second branch editing
